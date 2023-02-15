@@ -54,7 +54,7 @@ class BAITAPLON {
         sotientralaikhach = sotienkhachdua - giave;
         System.out.println("So tien thua la: " + sotientralaikhach);
     };
-
+    // test
     public static void main(String[] args) {
         int n;
         BAITAPLON sv;
