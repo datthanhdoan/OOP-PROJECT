@@ -4,16 +4,15 @@ public class thongtinve {
     private char loaive;
     private int giavetungloai;
     private int tienkhachdua;
-    private int tienthua;
 
     public thongtinve() {
         this.loaive = loaive;
         this.giavetungloai = giavetungloai;
         this.tienkhachdua = tienkhachdua;
-        this.tienthua = tienkhachdua - giavetungloai;
+
     }
 
-    public char getlaoive() {
+    public char getlaoive(int i) {
         return loaive;
     }
 
