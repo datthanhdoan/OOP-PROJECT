@@ -1,4 +1,3 @@
-package chuyenxe;
 
 public class thongtinkhachhang {
     private String name;

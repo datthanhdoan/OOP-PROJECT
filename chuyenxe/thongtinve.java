@@ -1,4 +1,3 @@
-package chuyenxe;
 
 public class thongtinve {
     private char loaive;

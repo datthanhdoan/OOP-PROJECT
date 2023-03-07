@@ -1,4 +1,3 @@
-package chuyenxe;
 
 import java.util.Scanner;
 
